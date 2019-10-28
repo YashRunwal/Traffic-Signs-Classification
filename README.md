@@ -14,3 +14,5 @@ Summary:
 
 The accuracy can be further improved by using either more number of Hidden Conv2D layers and/or by increasing the number of filters or epochs.
 
+![training and Validation](https://user-images.githubusercontent.com/56769818/67686295-81e5ce00-f9bc-11e9-9e5e-c43746676575.png)
+![training and implementation](https://user-images.githubusercontent.com/56769818/67686326-89a57280-f9bc-11e9-8061-5b8caf1dc851.png)
