@@ -13,3 +13,4 @@ Summary:
 3. Test Accuracy - 97%
 
 The accuracy can be further improved by using either more number of Hidden Conv2D layers and/or by increasing the number of filters or epochs.
+
